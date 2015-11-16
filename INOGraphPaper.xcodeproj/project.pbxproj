@@ -12,6 +12,7 @@
 		93C2BE9B1BF538940060350D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93C2BE991BF538940060350D /* Main.storyboard */; };
 		93C2BE9D1BF538940060350D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93C2BE9C1BF538940060350D /* Assets.xcassets */; };
 		93C2BEA01BF538940060350D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93C2BE9E1BF538940060350D /* LaunchScreen.storyboard */; };
+		93C2BEA81BF538AF0060350D /* GraphPaperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C2BEA71BF538AF0060350D /* GraphPaperView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		93C2BE9C1BF538940060350D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		93C2BE9F1BF538940060350D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		93C2BEA11BF538940060350D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93C2BEA71BF538AF0060350D /* GraphPaperView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GraphPaperView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				93C2BE951BF538940060350D /* AppDelegate.swift */,
 				93C2BE971BF538940060350D /* ViewController.swift */,
 				93C2BE991BF538940060350D /* Main.storyboard */,
+				93C2BEA71BF538AF0060350D /* GraphPaperView.swift */,
 				93C2BE9C1BF538940060350D /* Assets.xcassets */,
 				93C2BE9E1BF538940060350D /* LaunchScreen.storyboard */,
 				93C2BEA11BF538940060350D /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93C2BE981BF538940060350D /* ViewController.swift in Sources */,
+				93C2BEA81BF538AF0060350D /* GraphPaperView.swift in Sources */,
 				93C2BE961BF538940060350D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
